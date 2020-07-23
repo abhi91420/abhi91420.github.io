@@ -14,25 +14,25 @@ It is interesting how a problem can be solved using computers. what we can creat
 </blockquote>
 
 ### **Work Interests**
-```markdown
-Programming Languages
-1. *Python (front/back end)*
 ```
+Programming Languages
+1. Python (front/back end)
+
   Selenium Automation
   Image and Video processing
   Machine Learning
   Data Science
   Data Analysis
-```
-2. *Java (front/back end)*
- ```
+
+2. Java (front/back end)
+
   JDBC
   JPA
   Spring
   Servlets
- ```
 
-### Other Technologies 
+
+3. Other Technologies 
 
 1. SQL
 2. HTML CSS
