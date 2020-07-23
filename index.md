@@ -16,9 +16,28 @@ It is interesting how a problem can be solved using computers. what we can creat
 ### **Work Interests**
 ```markdown
 Programming Languages
+1. *Python (front/back end)*
+```
+  Selenium Automation
+  Image and Video processing
+  Machine Learning
+  Data Science
+  Data Analysis
+```
+2. *Java (front/back end)*
+ ```
+  JDBC
+  JPA
+  Spring
+  Servlets
+ ```
 
-1. Java 
-2. Python
+### Other Technologies 
+
+1. SQL
+2. HTML CSS
+3. Photoshop 
+4. Aws
 ```
 > I upload my work at [github](https://github.com/abhi91420)
 
