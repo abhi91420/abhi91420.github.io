@@ -1,9 +1,8 @@
 # **Hey there! My name is Abhishek Guntaka**
----
-## About me
-<cite>Currently looking for an entry level job as a software developer</cite>
-
 ![pattern](/img/pattern1.png)
+---
+## Status
+<cite>Currently looking for an entry level job as a software developer</cite>
 ### **Recent Milestone**
 > *2020 Graduate in M.Sc Computer Science*
 
