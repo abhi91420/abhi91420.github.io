@@ -1,10 +1,11 @@
 ![logo](/img/Logo.jpg)
+## About Me
 ---
-## Status
+### Status
 Currently looking for an entry level job as a software developer
 
 ### **Recent Milestone**
-> *2020 Graduate in M.Sc Computer Science*
+> *2020 Graduate in M.Sc Computer Science at Lakehead University*
 
 ### Motive
 
