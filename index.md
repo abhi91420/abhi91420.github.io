@@ -1,5 +1,4 @@
-# **Hey there! My name is Abhishek Guntaka**
-![pattern](/img/pattern1.png)
+![logo](/img/Logo.jpg)
 ---
 ## Status
 Currently looking for an entry level job as a software developer
