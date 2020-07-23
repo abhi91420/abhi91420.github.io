@@ -32,6 +32,7 @@ Programming Languages
 
 > [Github Profile](https://github.com/abhi91420)
 
-**Contact** - <sub>guntakaabhishek01@gmail.com</sub>
+> **Contact** 
+<sub>guntakaabhishek01@gmail.com</sub>
 
 > version 1.0
