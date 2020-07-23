@@ -1,5 +1,5 @@
 # **Welcome**
-![pattern](/img/pattern1.jpg)
+![pattern](/img/pattern 1.jpg)
 ### **Recent Milestone**
 > *2020 Graduate in M.Sc Computer Science*
 
@@ -14,6 +14,6 @@ Programming Languages
 
 > I do some art now and then and store them in my [drive](https://drive.google.com/drive/folders/1YBuPJutsoaONGTz1AgFWBIhHaQbddM08)
 
-![pattern](/img/pattern1.jpg)
+![pattern](/img/pattern 1.jpg)
 
 **Contact** - abhi91420@gmail.com
