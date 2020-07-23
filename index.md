@@ -18,6 +18,8 @@ Programming Languages
 
 ![pattern](/img/pattern1.png)
 
+### Links 
+
 > [Linkedin Profile](https://www.linkedin.com/in/abhishek-guntaka-32922469/)
 
 > [Github Profile](https://github.com/abhi91420)
