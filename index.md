@@ -2,7 +2,7 @@
 ## About Me
 ---
 ### Status
-Currently looking for an entry level job as a software developer
+Currently looking for an entry level job as a software developer,also willing to work any technology.  
 
 ### **Recent Milestone**
 > *2020 Graduate in M.Sc Computer Science at Lakehead University*
@@ -38,6 +38,8 @@ Programming Languages
 2. HTML CSS
 3. Photoshop 
 4. Aws
+5. Unix
+6. JavaScript
 ```
 > I upload my work at [github](https://github.com/abhi91420)
 
