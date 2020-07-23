@@ -27,7 +27,7 @@ Programming Languages
 
 ### Links 
 
-> ![Linkedin Profile]()/img/pattern1.png)(https://www.linkedin.com/in/abhishek-guntaka-32922469/)
+> ![Linkedin Profile](/img/pattern1.png)(https://www.linkedin.com/in/abhishek-guntaka-32922469/)
 
 > [Github Profile](https://github.com/abhi91420)
 
