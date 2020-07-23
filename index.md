@@ -15,5 +15,5 @@ Programming Languages
 > I do some art now and then and store them in my [drive](https://drive.google.com/drive/folders/1YBuPJutsoaONGTz1AgFWBIhHaQbddM08)
 
 ![pattern](/img/pattern1.png)
-![img](/img/img1.jpg)
+
 **Contact** - abhi91420@gmail.com
