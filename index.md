@@ -2,13 +2,16 @@
 ---
 ## Status
 Currently looking for an entry level job as a software developer
+
 ### **Recent Milestone**
 > *2020 Graduate in M.Sc Computer Science*
 
 ### Motive
+
 <blockquote>
 It is interesting how a problem can be solved using computers and what we can create in the modern days using the resources avaiable to the open world is truly overwhelming, I intend to absorb a considerable portion of this overwhelming knowledge to become a developer I believe there are a lot more things in our lives that can be done much better through technology like automating simple things to eliminate human repetition.
 </blockquote>
+
 ### **Work Interests**
 ```markdown
 Programming Languages
