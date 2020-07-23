@@ -18,4 +18,6 @@ Programming Languages
 
 ![pattern](/img/pattern1.png)
 
+> [Linkedin Profile](https://www.linkedin.com/in/abhishek-guntaka-32922469/)
+
 **Contact** - abhi91420@gmail.com
