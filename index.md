@@ -2,4 +2,7 @@
     Would like to congratulate Jankai for being accepted into Hogwarts!
 </span>
 
-![logo](/img/Letter.jpg)
+<span style="animation: flashFade 2s;">
+    ![logo](/img/Letter.jpg)
+</span>
+
